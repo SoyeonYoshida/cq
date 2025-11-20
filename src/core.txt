@@ -10,3 +10,4 @@ Clojure Query: A Command-line Data Processor for JSON, YAML, EDN, XML and more
 # handle the edge case from the last release
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
+# keep defaults in sync with the manifest
